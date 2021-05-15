@@ -768,7 +768,7 @@
   <repo-hooks in-project="platform/tools/repohooks" enabled-list="pre-upload" />
 
   <include name="snippets/exthm.xml" />
-  
+  <include name="ExplosiveLobster/main.xml" />
   <!-- 
       她看见了繁星闪烁，她看见斑斓的天空中，大熊座缠绕着。
       旷野的风呼啸而过，二人互相倚靠，仰望着，归于沉默。
